@@ -1,5 +1,4 @@
-# E-commerce-Funnel-Analysis (User Journey)
-## Behaviour vs Strict Funnel Analysis
+# Decoding the User Journey: Behaviour vs Strict Funnel Analysis
 
 This project analyses **e-commerce user journeys** using two contrasting funnel definitions —  
 **Behaviour Funnel** and **Strict Funnel** — to uncover **category-level purchase behaviour differences**.
